@@ -5,10 +5,9 @@ date: "8/28/2020"
 output: html_document
 ---
 
-
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(fig.path = "./figures/", dev='png')
 ```
 
 Import the libraries we'll use throughout the analysis
