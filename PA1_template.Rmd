@@ -2,7 +2,7 @@
 title: "Activity Data Analysis"
 author: "Jerry Lakin"
 date: "8/28/2020"
-output: html_document
+output: md_document
 ---
 
 ```{r setup, include=FALSE}
